@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FilmOneriSitem" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#0F171E</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">@color/design_default_color_surface</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.FilmOneriSitem" parent="Base.Theme.FilmOneriSitem" />
+</resources>

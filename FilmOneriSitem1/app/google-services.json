@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112022535236",
+    "project_id": "filmonerisitem",
+    "storage_bucket": "filmonerisitem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112022535236:android:839fe8f1a065ebf41a1011",
+        "android_client_info": {
+          "package_name": "com.example.filmonerisitem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7hndcooh96vw-IhiqONhx_aKqeqPmEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
